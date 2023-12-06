@@ -10,7 +10,7 @@
 | 21/1039312| Danilo Carvalho Antunes |
 
 ## Sobre 
-Este repositório contém a resolução de dois exercícios do [LeetCode](https://leetcode.com/)
+Este repositório contém a resolução de três exercícios do [LeetCode](https://leetcode.com/)
 
 ## Exercício 1255. Maximum Score Words Formed by Letters
 
@@ -29,13 +29,23 @@ Link: [Exercício 458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
 ![ScreenShot](imgs/Screenshot3.jpeg)_ScreenShot3_
 ![ScreenShot](imgs/Screenshot4.jpeg)_ScreenShot4_
 
+# Count All Possible Routes
+
+Dificuldade: **Hard <br>**
+Link: [Exercício 1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
+
+![ScreenShot](imgs/Screenshot5.jpeg)_ScreenShot3_
+![ScreenShot](imgs/Screenshot6.jpeg)_ScreenShot4_
+
 ## [Clique aqui para ver a apresentação](...)
 
 ## Instalação 
 **Linguagem**: Python<br>
+**Linguagem**: Java<br>
 
-Caso queira testar localmente é necessário ter o python instalado
+Caso queira testar localmente é necessário ter o python e o Java instalados
 ## Uso 
 Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio. Caso queira verificar localmente, é necessário adicionar a chamada da função principal com seus devidos paramêtros. para rodar basta utilizar o comando:
 
 `python3 NomeDoArquivo.py`
+`java NomeDoArquivo.java`
