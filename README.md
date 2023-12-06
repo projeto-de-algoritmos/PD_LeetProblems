@@ -39,7 +39,7 @@ Link: [Exercício 1575. Count All Possible Routes](https://leetcode.com/problems
 
 ![ScreenShot](imgs/ScreenShot6.jpeg)_ScreenShot6_
 
-## [Clique aqui para ver a apresentação](...)
+## [Clique aqui para ver a apresentação](https://youtu.be/Q0pTzBYKMEA)
 
 ## Instalação 
 **Linguagem**: Python<br>
