@@ -26,16 +26,18 @@ Link: [Exercício 1255. Maximum Score Words Formed by Letters](https://leetcode.
 Dificuldade: **Hard <br>**
 Link: [Exercício 458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
 
-![ScreenShot](imgs/Screenshot3.jpeg)_ScreenShot3_
-![ScreenShot](imgs/Screenshot4.jpeg)_ScreenShot4_
+![ScreenShot](imgs/ScreenShot3.jpeg)_ScreenShot3_
+
+![ScreenShot](imgs/ScreenShot4.jpeg)_ScreenShot4_
 
 # Count All Possible Routes
 
 Dificuldade: **Hard <br>**
 Link: [Exercício 1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
 
-![ScreenShot](imgs/Screenshot5.jpeg)_ScreenShot3_
-![ScreenShot](imgs/Screenshot6.jpeg)_ScreenShot4_
+![ScreenShot](imgs/ScreenShot5.jpeg)_ScreenShot5_
+
+![ScreenShot](imgs/ScreenShot6.jpeg)_ScreenShot6_
 
 ## [Clique aqui para ver a apresentação](...)
 
